@@ -1,0 +1,28 @@
+h1 {
+  color: #666699;
+}
+h2 {
+  color: #8585ad;
+}
+h3 {
+  color: #a3a3c2;
+}
+p {
+  color: #3d3d5c;
+}
+.row {
+  margin: 15px;
+}
+.quote {
+  border-left: none;
+  margin-top: 25px;
+}
+.thumbnail {
+  border: 0;
+}
+.caption {
+  margin:10px 35px;
+}
+footer {
+  margin-bottom: 5px;
+}

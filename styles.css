@@ -20,6 +20,10 @@ p {
 .thumbnail {
   border: 0;
 }
+figcaption {
+  color: #6c757d;
+  padding: 5px;
+}
 .caption {
   margin:10px 35px;
 }
